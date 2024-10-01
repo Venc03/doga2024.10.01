@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin: 70%;
+    padding: 70%;
+}
+
+main{
+    margin: 70%;
+    padding: 70%;
+    background-color: black;
+}
+
+footer{
+    margin: 70%;
+    padding: 70%;
+    background-color: black;
+    text-align: center;
+}
