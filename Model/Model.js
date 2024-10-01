@@ -2,7 +2,7 @@ import { LIST } from "./data.js"
 
 export default class Model {
     #list
-    kosar = {};
+    #kosar = {};
 
 
     constructor(){
@@ -21,5 +21,9 @@ export default class Model {
 
     getLIST(){
         return this.#list
+    }
+
+    getKOSAR(){
+        return this.#kosar;
     }
 } 
