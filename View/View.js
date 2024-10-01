@@ -1,4 +1,4 @@
-import { LIST } from "../Model/data"
+import { LIST } from "../Model/data.js"
 
 export default class View {
 

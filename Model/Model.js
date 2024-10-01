@@ -7,7 +7,7 @@ export default class Model {
 
     constructor(){
         this.#list = LIST
-        this.kosar = KOSAR
+
     }
 
 
